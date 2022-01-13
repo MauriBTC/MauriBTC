@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MauriBTC
 - 👀 I’m interested in Web Development, Blockchain (DLT), Finance
 - 🌱 I’m currently learning Blockchain Dev
-- 💞️ I’m looking to collaborate on Iota projects
 - 📫 How to reach me www.linkedin.com/in/maurizio-iori
 
 <!---
