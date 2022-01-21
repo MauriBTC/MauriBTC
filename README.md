@@ -8,10 +8,10 @@
 
 # Languages and Tools:
 
-[<img align="left" alt="java" width="40px" src="https://user-images.githubusercontent.com/52386206/150535090-6deb3ee1-c7fd-4de0-afc4-bbebd5eb9ab9.png" />][1]
-[<img align="left" alt="c" width="40px" src="https://user-images.githubusercontent.com/52386206/150535074-1825c937-176c-47a2-bfe0-02bfa6648784.png" />][2]
-[<img align="left" alt="c++" width="40px" src="https://user-images.githubusercontent.com/52386206/150535134-eea8d9bf-8f8b-4802-bb11-6e42cf252c1c.png" />][3]
-[<img align="left" alt="java" width="40px" src="https://user-images.githubusercontent.com/52386206/150535161-cb4de80a-3286-46a3-9585-161f0b0532aa.png" />][4]
+[<img alt="java" width="40px" src="https://user-images.githubusercontent.com/52386206/150535090-6deb3ee1-c7fd-4de0-afc4-bbebd5eb9ab9.png" />][1]
+[<img alt="c" width="40px" src="https://user-images.githubusercontent.com/52386206/150535074-1825c937-176c-47a2-bfe0-02bfa6648784.png" />][2]
+[<img alt="c++" width="40px" src="https://user-images.githubusercontent.com/52386206/150535134-eea8d9bf-8f8b-4802-bb11-6e42cf252c1c.png" />][3]
+[<img alt="java" width="40px" src="https://user-images.githubusercontent.com/52386206/150535161-cb4de80a-3286-46a3-9585-161f0b0532aa.png" />][4]
 [<img align="left" alt="java" width="40px" src="" />][]
 [<img align="left" alt="java" width="40px" src="" />][]
 [<img align="left" alt="java" width="40px" src="" />][]
