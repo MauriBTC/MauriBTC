@@ -9,6 +9,9 @@
 
 # Languages and Tools:
 
+[<img align="left" alt="medium" src="https://user-images.githubusercontent.com/52386206/150535395-539117ce-abac-4cf1-b1d8-58dfaeefebfd.png" />][1]
+
+
 ![java](https://user-images.githubusercontent.com/52386206/150535090-6deb3ee1-c7fd-4de0-afc4-bbebd5eb9ab9.png)[1]
 ![C](https://user-images.githubusercontent.com/52386206/150535074-1825c937-176c-47a2-bfe0-02bfa6648784.png)[2]
 ![C++](https://user-images.githubusercontent.com/52386206/150535134-eea8d9bf-8f8b-4802-bb11-6e42cf252c1c.png)[3]
