@@ -9,7 +9,7 @@
 
 # Languages and Tools:
 
-[<img align="left" alt="medium" src="https://user-images.githubusercontent.com/52386206/150535395-539117ce-abac-4cf1-b1d8-58dfaeefebfd.png" />] [1]
+[<img align="left" alt="medium" width="30px" src="https://user-images.githubusercontent.com/52386206/150535395-539117ce-abac-4cf1-b1d8-58dfaeefebfd.png" />] [1]
 
 
 ![java alt="medium"](https://user-images.githubusercontent.com/52386206/150535090-6deb3ee1-c7fd-4de0-afc4-bbebd5eb9ab9.png)[1]
