@@ -8,9 +8,9 @@
 
 
 # Languages and Tools:
-
-[<img align="left" alt="java" width="50px" src="https://user-images.githubusercontent.com/52386206/150535090-6deb3ee1-c7fd-4de0-afc4-bbebd5eb9ab9.png" />] [java]
-
+---
+[<img align="left" alt="java" width="50px" src="https://user-images.githubusercontent.com/52386206/150535090-6deb3ee1-c7fd-4de0-afc4-bbebd5eb9ab9.png" />] [1]
+---
 
 ![java alt="medium"](https://user-images.githubusercontent.com/52386206/150535090-6deb3ee1-c7fd-4de0-afc4-bbebd5eb9ab9.png)
 ![C](https://user-images.githubusercontent.com/52386206/150535074-1825c937-176c-47a2-bfe0-02bfa6648784.png)[2]
@@ -33,7 +33,7 @@
 ![bash](https://user-images.githubusercontent.com/52386206/150536634-d310c180-83eb-4e9e-80bb-ca408eb8a2c5.png)[19]
 ![command_prompt](https://user-images.githubusercontent.com/52386206/150542240-ea5c40b4-b6df-4fab-995e-3aa88413f0ff.png)[20]
 
-[java]: https://www.java.com/en/
+[1]: https://www.java.com/en/
 [2]: https://en.wikipedia.org/wiki/C_(programming_language)
 [3]: https://www.w3schools.com/cpp/cpp_intro.asp#:~:text=C%2B%2B%20is%20a%20cross%2Dplatform,over%20system%20resources%20and%20memory.
 [4]: https://www.python.org/
