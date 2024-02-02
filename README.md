@@ -1,6 +1,7 @@
 # 👋 Hi, I’m @MauriBTC
 
-- 🎓 Graduated in Computer Science at University of Parma (Bachelor of Science)
+- 👨🏽‍💻 Full Stack Developer
+- 🎓 Bachelor in Computer Science
 - 👀 Interested in Web Development, Blockchain (DLT), Finance
 - 🌱 Currently learning Blockchain Dev
 - 📫 How to reach me www.linkedin.com/in/maurizio-iori
