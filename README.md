@@ -2,7 +2,7 @@
 
 - 👨🏽‍💻 Full Stack Developer
 - 🎓 Bachelor in Computer Science
-- 👀 Interested in Web Development, Blockchain (DLT), Finance
+- 👀 Interested in Web Development, Blockchain (DLT) & Digital Assets, Finance
 - 🌱 Currently learning Blockchain Dev
 - 📫 How to reach me www.linkedin.com/in/maurizio-iori
 
